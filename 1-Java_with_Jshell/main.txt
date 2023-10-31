@@ -1,1 +1,21 @@
-Hello World
+click jshell
+You get a prompt
+
+1. Printing a statement
+
+    System.out.print("Hello World");
+    System.out.print("Hello Shanana");
+
+    # Note that
+    - System.out.print("Hello", "World"); this won't work in Java
+    - "" is for strings, '' cannot be used for strings
+
+
+2. Variables
+    You must specify the type of data type when declaring variables
+
+   int myFirstNumber = 29;    # a variable called 29 which is an integer
+
+   System.out.print(myFirstNumber);
+
+
