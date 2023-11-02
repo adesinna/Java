@@ -18,4 +18,15 @@ You get a prompt
 
    System.out.print(myFirstNumber);
 
+   jshell> myFirstNumber = 45; # reassign, you dont need to declare type,
+                               # but not allowed in
+   myFirstNumber ==> 45
 
+   jshell> System.out.print(myFirstNumber);
+
+
+   int secondNumber = (8*8) + (0/7);
+
+   This as a whole is called declaration, while the RHS is called expression
+
+    int newNew = myFirstNumber + secondNumber; # newNew must be the format of the variable

@@ -1,0 +1,29 @@
+There are eight primitive data types in Java
+
+Numbers in Z fall into data types:
+    - byte
+    - short
+    - int
+    - long
+
+Numbers in R fall into data types:
+    - float
+    - double
+
+Single Character falls into data type:
+    - char
+
+Boolean Value falls into data type:
+
+    - boolean
+
+Let us delineate these
+
+Integers:
+    This are whole numbers, however they do have a range
+
+    int myMinInt = Integer.MIN_VALUE;
+    myMinInt ==> -2147483648
+
+    int myMaxInt = Integer.MAX_VALUE;
+    myMaxInt ==> 2147483647
