@@ -27,3 +27,7 @@ Integers:
 
     int myMaxInt = Integer.MAX_VALUE;
     myMaxInt ==> 2147483647
+
+    System.out.print("my max is = " + myMaxInt); # the plus allows you to print two kinds of data types, just like f'{}' in python
+
+    System.out.print("The range is (" + Integer.MIN_VALUE + " to " + Integer.MAX_VALUE + ")" ); # space the to on both sides
